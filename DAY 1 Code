@@ -1,0 +1,3 @@
+a=input('please enter your number:')
+b=input('please enter your another number:')
+print('a*b=,',a*b)
